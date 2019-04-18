@@ -15,7 +15,7 @@ const CONFIG = {
       color: '#DE5833',
     },
     {
-      category: 'General',
+      category: 'Главная',
       name: 'Mail',
       key: 'm',
       url: 'https://gmail.com',
@@ -25,7 +25,7 @@ const CONFIG = {
       quickLaunch: true,
     },
     {
-      category: 'General',
+      category: 'Главная',
       name: 'Drive',
       key: 'd',
       url: 'https://drive.google.com',
@@ -35,7 +35,7 @@ const CONFIG = {
       quickLaunch: false,
     },
     {
-      category: 'General',
+      category: 'Главная',
       name: 'LinkedIn',
       key: 'l',
       url: 'https://linkedin.com',
